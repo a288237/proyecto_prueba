@@ -1,0 +1,21 @@
+#tema1{color:red;}
+.italica{font-style:italic}
+h1{
+  text-align:center;
+  font-size:60px;}
+h2{
+  color:blue;
+  font-family:arial;}
+a{
+  text-decoration:none;
+  color:red;}
+p{text-align:justify;}
+h2,p,a{border: 1px solid red;}
+li{border: 1px solid blue;}
+ol{border: 1px solid green;}
+body{border: 1px solid orange;}
+html{border: 1px solid black;}
+h1{border: 10px dotted red;
+  padding: 20px;
+  outline: 15px dashed green;
+  margin: 15px;}
